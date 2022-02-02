@@ -3,6 +3,9 @@
 # python generators.
 
 
+from calendar import c
+import sys
+
 def simple_generator():
 
     yield 1
@@ -11,6 +14,9 @@ def simple_generator():
 
 
 x = simple_generator()
+
+
+
 
 print(next(x))
 print(next(x))
