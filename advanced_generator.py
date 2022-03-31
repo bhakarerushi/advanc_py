@@ -2,7 +2,6 @@
 
 # Advanced generators with .send(), .threw(), .close()
 
-
 from operator import ge
 
 
