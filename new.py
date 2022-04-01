@@ -1,6 +1,6 @@
 
 
 text = """
-        this is new file text1
+        this is new file text2
 
 """
